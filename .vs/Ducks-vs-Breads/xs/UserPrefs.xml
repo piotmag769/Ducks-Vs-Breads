@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{4D5BCE8D-0863-2B73-4301-29EBD1AD06AA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Script/MenuScript/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Script/Weapons/KnifeAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Script/MenuScript/StartLevel.cs" />
+      <File FileName="Assets/Scenes/Script/PlayerScripts/PlayerControl.cs" />
+      <File FileName="Assets/Scenes/Script/EnemyScripts/BaseControllers/PlayerAwarenessController.cs" />
+      <File FileName="Assets/Scenes/Script/MenuScript/MainMenu.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scenes/Script/Health/HealthController.cs" />
+      <File FileName="Assets/Scenes/Script/MenuScript/EndLevel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ducks-vs-Breads" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="AnimationScripts" expanded="True" />
+                  <Node name="EnemyScripts" expanded="True">
+                    <Node name="BaseControllers" expanded="True" />
+                    <Node name="WhiteBread" expanded="True" />
+                  </Node>
+                  <Node name="Health" expanded="True" />
+                  <Node name="MenuScript" expanded="True" />
+                  <Node name="PlayerScripts" expanded="True" />
+                  <Node name="Weapons" expanded="True" />
+                  <Node name="WorldScripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c88ae461-edac-49f1-bc8e-054494f43d3f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

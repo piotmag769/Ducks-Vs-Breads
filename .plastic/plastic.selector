@@ -1,0 +1,4 @@
+repository "Ducks-vs-Breads@Ducks_game_inc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
